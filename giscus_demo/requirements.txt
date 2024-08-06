@@ -1,0 +1,2 @@
+reflex==0.5.8
+reflex-giscus
